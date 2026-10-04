@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+node_modules/
+frontend/dist/
+.DS_Store
+coverage/
+*.log
+.idea/
+.vscode/
+.venv/
+.simulator_state/
+frontend/node_modules/
+frontend/dist/
